@@ -9,7 +9,7 @@ Welcome to my personal GitHub profile page
 # About me
 Managing Partner at CyberMinute, also owner & managing consultant at Quest For Security, based in Leuven, Belgium.
 
-With +20y experience, I have built strong experience in enterprise security & architecture, identity & access management, incl. information & data protection, privacy, cybersecurity, cloud security, corporate security policies, security best practices & hardening.
+With +25y experience, I have built strong experience in enterprise security & architecture, identity & access management, incl. information & data protection, privacy, cybersecurity, cloud security, corporate security policies, security best practices & hardening.
 
 Committed to continuous learning, I hold renowned security certificates in Data Protection & Privacy, Information Security, Cybersecurity, Cloud security, Incident Mgmt, Business Continuity, Disaster Recovery, Architecture, Software Security, Ethical Hacking, HR security... and growing.
 
@@ -28,7 +28,7 @@ I strive to spend time on the Microsoft community both online as offline:
 
 You can find his personal blog at http://blog.identityunderground.be. 
 
-10x Microsoft MVP Security (Identity and Access), 2008 - 2023
+12x Microsoft MVP Security (Identity and Access), 2008 - 2025
 
 Strong believer and active supporter of knowledge sharing to build and grow the security & privacy communities.
 
